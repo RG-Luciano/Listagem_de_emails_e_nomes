@@ -1,0 +1,38 @@
+body{
+    background: whitesmoke;
+    margin: 10px;
+}
+.logo{
+    text-align: left;
+    width: 250px;
+    margin: 0;
+}
+table tr th{
+    font-size: 30px;
+    text-transform:uppercase ;
+    color: white;
+    background-color: #6a5345;
+    border-radius: 10px;
+    text-align: center;
+}
+table td{
+    text-align: left;
+    text-transform: lowercase;
+}
+#container{
+    color: #6a5345;
+    font-family: roboto;
+    text-align:center;
+    justify-content: center;
+}
+td{
+    color: white;
+    background: #6a5345;
+    border-radius:  10px;
+    width: 50%;
+    font-size: 20px;
+}
+#search{
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
